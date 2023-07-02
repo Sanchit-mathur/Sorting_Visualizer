@@ -11,4 +11,3 @@ Implemented algorithms:
 The visualization involves various graphical elements such as bars, representing the elements of the array, that move or change color during the sorting process. You can also add controls to start, pause, and reset the visualization.
 
 
-http://127.0.0.1:5500/
